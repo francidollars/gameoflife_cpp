@@ -1,0 +1,4 @@
+/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug/CMakeFiles/edit_cache.dir
+/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug/CMakeFiles/gol_binary.dir
+/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug/CMakeFiles/gol_lib.dir

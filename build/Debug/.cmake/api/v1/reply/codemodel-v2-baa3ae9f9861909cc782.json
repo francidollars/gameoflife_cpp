@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GameOfLife_Cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gol_binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gol_binary-Debug-39784ed6eb1e9aeebafc.json",
+					"name" : "gol_binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gol_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gol_lib-Debug-b42c25655c1b49454157.json",
+					"name" : "gol_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+		"source" : "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

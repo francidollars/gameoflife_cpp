@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+  "command": "/usr/bin/g++ -I../../include -g -std=gnu++17 -o CMakeFiles/gol_binary.dir/src/main.cpp.o -c /home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/main.cpp",
+  "file": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/main.cpp"
+},
+{
+  "directory": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+  "command": "/usr/bin/gcc -I../../include -g -o CMakeFiles/gol_lib.dir/src/SDL_FontCache.c.o -c /home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/SDL_FontCache.c",
+  "file": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/SDL_FontCache.c"
+},
+{
+  "directory": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+  "command": "/usr/bin/g++ -I../../include -g -std=gnu++17 -o CMakeFiles/gol_lib.dir/src/sdl_funcs.cpp.o -c /home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/sdl_funcs.cpp",
+  "file": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/sdl_funcs.cpp"
+},
+{
+  "directory": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+  "command": "/usr/bin/g++ -I../../include -g -std=gnu++17 -o CMakeFiles/gol_lib.dir/src/datastruct.cpp.o -c /home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/datastruct.cpp",
+  "file": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/datastruct.cpp"
+},
+{
+  "directory": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/build/Debug",
+  "command": "/usr/bin/g++ -I../../include -g -std=gnu++17 -o CMakeFiles/gol_lib.dir/src/ds_cellmap.cpp.o -c /home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/ds_cellmap.cpp",
+  "file": "/home/mickey/Projects/Cpp_workspace/GameOfLife_Cpp/src/ds_cellmap.cpp"
+}
+]
